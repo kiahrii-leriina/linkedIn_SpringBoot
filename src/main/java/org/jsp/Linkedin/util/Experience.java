@@ -1,4 +1,4 @@
-package org.jsp.Linkedin;
+package org.jsp.Linkedin.util;
 
 public enum Experience {
 	EXPERIENCE,
